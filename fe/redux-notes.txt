@@ -1,0 +1,12 @@
+choo
+  * yo-yo -> morphdom
+  * yo-yo -> bel -> hyperx
+  * router
+
+redux:
+  views emit events
+  reducers listen for events and update state
+  reducers trigger re-renders
+  there is one state object
+
+
